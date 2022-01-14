@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning JAVA
 - 💞️ I’m looking to collaborate on GoLang, Pyhton
-- 📫 How to reach me ... julliesonyango@hotmail.com
+- 📫 How to reach me ... jullies@goworldservers.com
 
 <!---
 Jullies/Jullies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
