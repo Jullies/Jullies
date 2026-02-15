@@ -1,8 +1,10 @@
-- 👋 Hi, I’m @Jullies
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning JAVA
-- 💞️ I’m looking to collaborate on GoLang, Pyhton
-- 📫 How to reach me ... nyashjullies@gmail.com
+* 👋 Hi, I’m @Jullies
+* 👀 I’m interested in Programming
+* 🌱 I’m currently learning JAVA
+* 💞️ I’m looking to collaborate on GoLang, Python
+* 📫 How to reach me: +254707039794
+* 🚀 Founder of FarmApp.co.ke
+
 
 <!---
 Jullies/Jullies is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
