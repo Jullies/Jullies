@@ -1,6 +1,5 @@
 * 👋 Hi, I’m @Jullies
 * 👀 I’m interested in Programming
-* 🌱 I’m currently learning JAVA
 * 💞️ I’m looking to collaborate on GoLang, Python
 * 📫 How to reach me: +254707039794
 * 🚀 Founder of FarmApp.co.ke
